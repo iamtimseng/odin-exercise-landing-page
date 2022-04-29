@@ -166,12 +166,3 @@ button {
     margin: 25px;
     text-align: center;
 }
-
-
-margin: 2em;
-padding: 4%;
-display: flex;
-flex-flow: row wrap;
-align-items: center;
-justify-content: center;
-max-width: 1500px;
